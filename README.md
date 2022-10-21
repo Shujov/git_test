@@ -1,3 +1,6 @@
 # git_test
-My first Github repo!
-Hello!!
+
+The basic git commands are:
+
+### Commands related to a remote repository
+$ git clone [ssh clone link]
